@@ -7,9 +7,9 @@
 		<option></option>
 	</question>
 	<question>
-		<title>¿Jesús Existe?</title>
+		<title>¿Jesús Existe? (Si/ No) </title>
 		<type>text</type>
-		<answer>true</answer>
+		<answer>Si</answer>
 		<option></option>
 	</question>
 	<question>
@@ -39,36 +39,35 @@
 		<type>multiple</type>
 		<answer>1</answer>
 		<answer>2</answer>
-		<answer>3</answer>
-		<answer>5</answer>
-		<option>1</option>
-		<option>-2</option>
+		<option>7</option>
+		<option>10</option>
 		<option>5</option>
 		<option>7.5</option>
 		<option>3</option>	
 	</question>
 	<question>
-		<title>Selecciona varios números para llegar a 4 (máximo 3 opciones) .</title>
+		<title>Selecciona varios números multiples de 2.</title>
 		<type>multiple</type>
 		<answer>1</answer>
 		<answer>3</answer>
 		<answer>4</answer>
-		<option>1</option>
+		<option>2</option>
 		<option>-2</option>
-		<option>5</option>
-		<option>7.5</option>
+		<option>4</option>
+		<option>16</option>
 		<option>3</option>	
 	</question>
 	<question>
-		<title>Cuales de ellos no son reales?</title>
-		<type>checkbox</type>
+		<title>Selecciona varios números primos.</title>
+		<type>multiple</type>
+		<answer>1</answer>
 		<answer>3</answer>
 		<answer>5</answer>
-		<option>coche</option>
-		<option>avion</option>
-		<option>trelicoptero</option>
-		<option>tren</option>
-		<option>bombilla estelar</option>	
+		<option>1</option>
+		<option>-2</option>
+		<option>7</option>
+		<option>16</option>
+		<option>3</option>
 	</question>
 	<question>
 		<title>Cual de ellos si  son reales?</title>
