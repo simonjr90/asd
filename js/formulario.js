@@ -14,8 +14,7 @@ window.onload = function(){
         questionHandler(this);
         }
     };
-    //xhttp.open("GET", "https://rawgit.com/simonjr90/asd/master/xml/XML.xml", true); 
-	xhttp.open("GET", "https://github.com/simonjr90/asd/blob/master/xml/XML.xml", true);
+    xhttp.open("GET", "https://rawgit.com/simonjr90/asd/master/xml/XML.xml", true); 
     xhttp.send();
 }
 
