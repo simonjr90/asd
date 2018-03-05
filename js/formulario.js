@@ -22,7 +22,7 @@ window.onload = function(){
 function checkText(form, count){
     var actAnswer = form.elements[count*2+1];
     var result = false;
-    if (actAnswer.value == "Default value") {
+    if (actAnswer.value == "Define valor") {
         return count;
     } else if(actAnswer.value == globAnswers[count][0].innerHTML) {
         result = true;
@@ -34,7 +34,7 @@ function checkText(form, count){
 function checkSelect(form, count) {
     var actAnswer = form.elements[count*2+1];
     var result = false;
-    if (actAnswer.value == "Default") {
+    if (actAnswer.value == "por defecto") {
         return count;
     } else if(actAnswer.value == globAnswers[count][0].innerHTML) {
         result = true;
@@ -54,7 +54,7 @@ function checkMultiple(form, count) {
         actAnswer = actAnswers[i];
         auxFlag = false;
         if (actAnswer.selected == true) {
-            if (actAnswer.innerHTML == "Default value") {
+            if (actAnswer.innerHTML == "Define valor") {
                 return count;
             }
             selAnswers += 1;
