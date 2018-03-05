@@ -1,0 +1,51 @@
+#background {
+    background-color: #333232;
+    padding: 3% 0% 13% 0%;
+    z-index: -1;
+    
+}
+
+#title {
+    background-color: white;
+    margin: 0% 5% 0% 5%;
+    border: solid;
+    text-align: center;
+}
+
+#menu {
+    background-color: white;
+    margin: 3% 5% 0% 5%;
+    border: solid;
+    padding: 0% 5% 0% 5%;
+}
+
+#meElement > li {
+    list-style: none;
+    display: inline-block;
+    border: solid;
+    margin: 0% 5% 0% 5%;
+}
+
+#formContainer {
+    background-color: white;
+    margin: 3% 5% 0% 5%;
+    border: solid;
+}
+
+.fieldset {
+    display: block;
+    text-align: center;
+}
+
+fieldset > select {
+    width: 50%;
+    text-align: center;
+}
+
+#quest3, #quest4 {
+    width: 50%;
+}
+
+#submit {
+    margin-left: 70%;
+}
