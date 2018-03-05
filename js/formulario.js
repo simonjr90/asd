@@ -14,7 +14,7 @@ window.onload = function(){
         questionHandler(this);
         }
     };
-    xhttp.open("GET", "https://cdn.rawgit.com/simonjr90/Formulario/311b4f0d/xml/XML.xml", true); 
+    xhttp.open("GET", "https://cdn.rawgit.com/simonjr90/asd/197b20ea/xml/XML.xml", true); 
     xhttp.send();
 }
 
