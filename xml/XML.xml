@@ -23,7 +23,7 @@
 		<option>5.25</option>	
 	</question>
 	<question>
-		<title>Cuantos lados tiene un hexagono?</title>
+		<title>¿Cuantos lados tiene un hexagono?</title>
 		<type>select</type>
 		<answer>6</answer>
 		<option>1</option>
@@ -70,7 +70,7 @@
 		<option>3</option>
 	</question>
 	<question>
-		<title>Cual de ellos si  son reales?</title>
+		<title>¿Cual de ellos si  son reales?</title>
 		<type>checkbox</type>
 		<answer>1</answer>
 		<answer>2</answer>
@@ -82,7 +82,7 @@
 		<option>bombilla estelar</option>
 	</question>
 	<question>
-		<title>Cuántos lados tiene un cuadrado?</title>
+		<title>¿Cuántos lados tiene un cuadrado?</title>
 		<type>radio</type>
 		<answer>1</answer>
 		<option>2</option>
@@ -92,7 +92,7 @@
 		<option>3.2</option>	
 	</question>
 	<question>
-        <title>Cuál de estos no es un número racional?</title>
+        <title>¿Cuál de estos no es un número racional?</title>
 		<type>radio</type>
 		<answer>1</answer>
 		<option>e</option>
